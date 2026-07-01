@@ -1,0 +1,10 @@
+{
+  "name": "my-digital-garden2",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "quartz build"
+  },
+  "dependencies": {
+    "quartz": "latest"
+  }
+}
